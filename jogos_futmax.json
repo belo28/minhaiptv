@@ -7,7 +7,9 @@
     "data": "25/09/2026",
     "time_fora": "Romênia",
     "canal": "ESPN e DISNEY+",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-suecia-x-romenia-ao-vivo-25-09-2026-online.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-suecia-x-romenia-ao-vivo-25-09-2026-online.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Polônia vs Bósnia e Herzegovina (Liga das Nações)",
@@ -17,7 +19,9 @@
     "data": "25/09/2026",
     "time_fora": "Bósnia e Herzegovina",
     "canal": "ESPN 4 e DISNEY+",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-polonia-x-bosnia-e-herzegovina-ao-vivo-25-09-2026-online.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-polonia-x-bosnia-e-herzegovina-ao-vivo-25-09-2026-online.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Hungria vs Ucrânia (Liga das Nações)",
@@ -27,7 +31,9 @@
     "data": "25/09/2026",
     "time_fora": "Ucrânia",
     "canal": "SPORTV 2",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-hungria-x-ucrania-ao-vivo-25-09-2026-online.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-hungria-x-ucrania-ao-vivo-25-09-2026-online.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Turquia vs França (Liga das Nações)",
@@ -37,7 +43,9 @@
     "data": "25/09/2026",
     "time_fora": "França",
     "canal": "SPORTV",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-turquia-x-franca-ao-vivo-25-09-2026-gratis.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-turquia-x-franca-ao-vivo-25-09-2026-gratis.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Itália vs Bélgica (Liga das Nações)",
@@ -47,7 +55,9 @@
     "data": "25/09/2026",
     "time_fora": "Bélgica",
     "canal": "DISNEY+",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-italia-x-belgica-ao-vivo-hd-25-09-2026.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-italia-x-belgica-ao-vivo-hd-25-09-2026.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Palmeiras vs Ituano (Campeonato Paulista Sub-20)",
@@ -57,7 +67,9 @@
     "data": "25/09/2026",
     "time_fora": "Ituano",
     "canal": "XSPORTS",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-palmeiras-x-ituano-ao-vivo-online-hd-25-09-2026.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-palmeiras-x-ituano-ao-vivo-online-hd-25-09-2026.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Novorizontino vs São Bernardo (Brasileirão Série B)",
@@ -67,7 +79,9 @@
     "data": "25/09/2026",
     "time_fora": "São Bernardo",
     "canal": "DISNEY+",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-novorizontino-x-sao-bernardo-ao-vivo-25-09-2026-online-hd.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-novorizontino-x-sao-bernardo-ao-vivo-25-09-2026-online-hd.html",
+    "disponivel": false,
+    "players": []
   },
   {
     "title": "Vila Nova vs Londrina (Brasileirão Série B)",
@@ -77,6 +91,8 @@
     "data": "25/09/2026",
     "time_fora": "Londrina",
     "canal": "DISNEY+",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-vila-nova-x-londrina-ao-vivo-25-09-2026-hd.html"
+    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-vila-nova-x-londrina-ao-vivo-25-09-2026-hd.html",
+    "disponivel": false,
+    "players": []
   }
 ]
