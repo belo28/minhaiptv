@@ -2,7 +2,7 @@
   {
     "title": "Novorizontino vs São Bernardo (Brasileirão Série B)",
     "campeonato": "Brasileirão Série B",
-    "horario": "19:30",
+    "horario": "AO VIVO",
     "time_casa": "Novorizontino",
     "data": "25/09/2026",
     "time_fora": "São Bernardo",
@@ -10,8 +10,13 @@
     "logo_fora": "https://cdn-img.staticzz.com/img/logos/equipas/15771_imgbank_1685114451.png",
     "canal": "DISNEY+",
     "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-novorizontino-x-sao-bernardo-ao-vivo-25-09-2026-online-hd.html",
-    "disponivel": false,
-    "players": []
+    "disponivel": true,
+    "players": [
+      {
+        "opcao": "1",
+        "url": "https://esportesembed.net/novorizontino-x-sao-bernardo-1"
+      }
+    ]
   },
   {
     "title": "Vila Nova vs Londrina (Brasileirão Série B)",
