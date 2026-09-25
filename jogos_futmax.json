@@ -21,7 +21,7 @@
   {
     "title": "Vila Nova vs Londrina (Brasileirão Série B)",
     "campeonato": "Brasileirão Série B",
-    "horario": "20:30",
+    "horario": "AO VIVO",
     "time_casa": "Vila Nova",
     "data": "25/09/2026",
     "time_fora": "Londrina",
@@ -29,7 +29,12 @@
     "logo_fora": "https://cdn-img.staticzz.com/img/logos/equipas/3327_imgbank_1683649854.png",
     "canal": "DISNEY+",
     "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-vila-nova-x-londrina-ao-vivo-25-09-2026-hd.html",
-    "disponivel": false,
-    "players": []
+    "disponivel": true,
+    "players": [
+      {
+        "opcao": "1",
+        "url": "https://esportesembed.net/vila-nova-x-londrina-1"
+      }
+    ]
   }
 ]
