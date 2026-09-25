@@ -1,32 +1,5 @@
 [
   {
-    "title": "Palmeiras vs Ituano (Campeonato Paulista Sub-20)",
-    "campeonato": "Campeonato Paulista Sub-20",
-    "horario": "AO VIVO",
-    "time_casa": "Palmeiras",
-    "data": "25/09/2026",
-    "time_fora": "Ituano",
-    "logo_casa": "https://cdn-img.staticzz.com/img/logos/equipas/2248_imgbank_1683626314.png",
-    "logo_fora": "https://cdn-img.staticzz.com/img/logos/equipas/2543_imgbank_1683641599.png",
-    "canal": "XSPORTS",
-    "url": "https://futmax.lat/futebol-ao-vivo-online/assistir-palmeiras-x-ituano-ao-vivo-online-hd-25-09-2026.html",
-    "disponivel": true,
-    "players": [
-      {
-        "opcao": "1",
-        "url": "https://superflixapi.baby/canal/xsports"
-      },
-      {
-        "opcao": "2",
-        "url": "https://3007.cdnembedcanais.xyz/xsports/"
-      },
-      {
-        "opcao": "3",
-        "url": "https://redecanaistv.af/player3/ch.php?categoria=live&canal=xsports"
-      }
-    ]
-  },
-  {
     "title": "Novorizontino vs São Bernardo (Brasileirão Série B)",
     "campeonato": "Brasileirão Série B",
     "horario": "19:30",
