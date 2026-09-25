@@ -2,12 +2,13 @@ name: Atualizar Jogos Futmax
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Copiar repositório
         uses: actions/checkout@v3
