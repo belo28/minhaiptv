@@ -59,8 +59,13 @@ def atualizar_jogos():
 
         data = res.json().get("data", {})
 
+        html = (
+            data.get("live_html", "")
+            + data.get("upcoming_html", "")
+        )
+
         soup = BeautifulSoup(
-            data.get("upcoming_html", ""),
+            html,
             "html.parser"
         )
 
@@ -78,6 +83,20 @@ def atualizar_jogos():
             if len(partes) >= 7:
                 pagina_jogo = j.get("href")
 
+                imagens = j.select(".v9-club img")
+
+                logo_casa = (
+                    imagens[0].get("src", "")
+                    if len(imagens) >= 1
+                    else ""
+                )
+
+                logo_fora = (
+                    imagens[1].get("src", "")
+                    if len(imagens) >= 2
+                    else ""
+                )
+
                 jogo_info = {
                     "title": f"{partes[2]} vs {partes[6]} ({partes[0]})",
                     "campeonato": partes[0],
@@ -85,6 +104,8 @@ def atualizar_jogos():
                     "time_casa": partes[2],
                     "data": partes[3],
                     "time_fora": partes[6],
+                    "logo_casa": logo_casa,
+                    "logo_fora": logo_fora,
                     "canal": partes[7] if len(partes) > 7 else "",
                     "url": pagina_jogo,
                     "disponivel": False,
